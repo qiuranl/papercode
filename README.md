@@ -1,6 +1,6 @@
 # public code of papers
 
-This repository includes papers that have been accepted or are being submitted, shown as follows:
+This repository contains papers that have been either accepted for publication or are currently under review, as detailed below:
 
 - TLCML (submitted, ICME)
 
